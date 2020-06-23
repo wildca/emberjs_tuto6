@@ -1,0 +1,3 @@
+command: ember server 
+
+url : https://guides.emberjs.com/release/tutorial/part-1/orientation/
